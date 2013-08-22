@@ -10,6 +10,8 @@ Bootstrap for Email utilizes LESS to create a stylesheet containing a subset of 
 
 Anything that uses JavaScript is left out, leaving you with an e-mail page suitable for running through [Premailer](http://premailer.dialect.ca/) before sending.
 
+We're using Bootstrap 2.3.2.
+
 Quick start
 -----------
 
